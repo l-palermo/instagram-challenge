@@ -1,40 +1,70 @@
-Instagram Challenge
-===================
+# Instagram Challenge
 
-## Instructions
+This is a weekend exercise from Makers where we are asked to build an app that resembles Instagram with ruby on rails
 
-* Challenge time: one weekend
-* Feel free to use Google, your notes, books, etc., but work on your own
-* If you refer to the solution of another coach or student, please put a link to that in your README
-* If you have a partial solution, **still check in a partial solution**
-* You must submit a pull request to this repo with your code by 9am Monday morning
+## User stories - MVP
 
-## Task
+As a user 
+So I can be part of the comunity
+I want to get to instangram sign up page
 
-Build Instagram: Simple huh!
+As a user 
+So I can start interacting with the app
+I want to get to instangram sign in page
 
-Your challenge is to build Instagram using Rails. You'll need **users** who can post **pictures**, write **comments** on pictures and **like** a picture. Style it like Instagram's website (or more awesome).
+As a user 
+So I can post my first picture
+I want to post a picture that is in my local machine
 
-Bonus if you can add filters!
+As a user 
+So I can be sure my picture has been posted correctly
+I want to see the on the home page
 
-## How to start
+As a user 
+So I know who the picture belongs to
+I want to see the name of the user on top of the picture
 
-1. Produce some stories, break them down into tasks, and estimate
-2. Fork this repo, clone, etc
-3. Initialize a new rails project
+As a user 
+So I can express my appreciation 
+I want to comment on the posted pictures
 
-Remember to proceed in small steps! Getting confused? Make the steps even smaller.
+As a user 
+So I can express my appreciation 
+I want to like a posted picture
 
-## Code Quality
 
-For linting, you can use the `.rubocop.yml` in this repository (or your own!).
-You'll need these gems:
 
-```ruby
-gem "rubocop", "0.48.1"
-gem "rubocop-rails"
-```
 
-You can also lint Javascript, CSS, and ERB — feel free to research this. These
-will help you to train yourself to produce cleaner code — and will often alert
-you to mistakes or mishaps!
+
+
+
+
+
+
+
+
+
+
+
+This README would normally document whatever steps are necessary to get the
+application up and running.
+
+Things you may want to cover:
+
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
