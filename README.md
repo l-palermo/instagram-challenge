@@ -6,12 +6,12 @@ This is a weekend exercise from Makers where we are asked to build an app that r
 
 ```
 As a user 
-So I can be part of the comunity
-I want to get to instangram sign up page
+So I can be part of the community
+I want to get to Instagram sign up page
 
 As a user
-So I can submit only valid informations when I sign up
-I want to be redirected to the sign up page if prameters are invalid.
+So I can submit only valid information when I sign up
+I want to be redirected to the sign-up page if parameters are invalid.
 
 As a user 
 So I can start interacting with the app
@@ -19,16 +19,16 @@ I want to be able to log in
 ```
 
 As a user 
-So I can post my first picture
-I want to post a picture that is in my local machine
+So I can use the app
+I want to post a picture that is in my local HD
 
 As a user 
 So I can be sure my picture has been posted correctly
-I want to see the on the home page
+I want to see it on the home page
 
 As a user 
 So I know who the picture belongs to
-I want to see the name of the user on top of the picture
+I want to see the name of the user above the picture
 
 As a user 
 So I can express my appreciation 
