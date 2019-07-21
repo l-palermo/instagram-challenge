@@ -1,6 +1,6 @@
 require 'rails_helper'
 
-RSpec.describe InstagramController, type: :controller do
+RSpec.describe UsersController, type: :controller do
 
   it 'get to the index page and render index.html' do
     get :index
@@ -11,4 +11,5 @@ RSpec.describe InstagramController, type: :controller do
     get :index
     expect(response).to have_http_status(200)
   end 
+
 end

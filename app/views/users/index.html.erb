@@ -1,0 +1,28 @@
+<h1>Welcome to Instagram</h1>
+
+
+<%= form_for(@user) do |form| %>
+  <p>
+    <%= form.label :name %><br>
+    <%= form.text_field :name %>
+  </p>
+ 
+  <p>
+    <%= form.label :surname %><br>
+    <%= form.text_area :surname %>
+  </p>
+
+  <p>
+    <%= form.label :email %><br>
+    <%= form.text_area :email %>
+  </p>
+
+  <p>
+    <%= form.label :password %><br>
+    <%= form.text_area :password %>
+  </p>
+ 
+  <p>
+    <%= form.submit 'Sign up'%>
+  </p>
+<% end %>

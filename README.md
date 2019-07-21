@@ -4,9 +4,11 @@ This is a weekend exercise from Makers where we are asked to build an app that r
 
 ## User stories - MVP
 
+```
 As a user 
 So I can be part of the comunity
 I want to get to instangram sign up page
+```
 
 As a user 
 So I can start interacting with the app
