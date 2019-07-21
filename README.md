@@ -8,11 +8,15 @@ This is a weekend exercise from Makers where we are asked to build an app that r
 As a user 
 So I can be part of the comunity
 I want to get to instangram sign up page
-```
+
+As a user
+So I can submit only valid informations when I sign up
+I want to be redirected to the sign up page if prameters are invalid.
 
 As a user 
 So I can start interacting with the app
-I want to get to instangram sign in page
+I want to be able to log in
+```
 
 As a user 
 So I can post my first picture
